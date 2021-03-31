@@ -59,8 +59,7 @@ function const printIfWeAsked = (isUwu: bean) => {
 
 
   // 10. HTML
-
-   Hello World!
+  <ul>isUwu ? "no, we did not" : "no, we did not"</ul>
 
   // 11. Java
   import javax.swing.JFrame;  //Importing class JFrame
